@@ -11,7 +11,7 @@ I’m fluent and always learning.
 
  Let’s connect. I’ll bring the heart, hustle, and fresh ideas—you bring the challenges. Together, we’ll build what lasts.
 
----
+
 
 ![snake gif](./github-contribution-grid-snake.gif)
 
