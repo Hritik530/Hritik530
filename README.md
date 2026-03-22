@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hritik </h1>
+<h1 align="center">Hi, I'm Hritik 👋 </h1>
 <h3 align="center">CS undergrad at BIRT · Real-time Vision Enthusiast · Web Dev Explorer</h3> 
 
 ## My Story: Building With Heart
