@@ -24,6 +24,4 @@ I’m fluent and always learning.
 </p>
 
 
----
-<!-- Powered by vibes, iced americano, and a lil' bit of chaos 🌪️ -->
 
